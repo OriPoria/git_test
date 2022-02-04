@@ -17,7 +17,7 @@ namespace git_test
             int k = 1;
             if (k == 2)
             {
-                Console.WriteLine(j);
+                Console.WriteLine(j);   
             }
             while (k < 23)
             {
