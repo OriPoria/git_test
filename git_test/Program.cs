@@ -14,14 +14,14 @@ namespace git_test
                     Console.WriteLine(i);
                 }
             }
-            int j = 1;
-            if (j == 2)
+            int k = 1;
+            if (k == 2)
             {
                 Console.WriteLine(j);
             }
-            while (j < 23)
+            while (k < 23)
             {
-                Console.WriteLine(j);
+                Console.WriteLine(k);
             }
             Console.WriteLine("End of loop!");
             Console.WriteLine("Written by Ori");
