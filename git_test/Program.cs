@@ -9,7 +9,10 @@ namespace git_test
             int loops = 10;
             for (int i = 0; i < loops; i++)
             {
-                Console.WriteLine(i);
+                if (i % 2 == 0)
+                {
+                    Console.WriteLine(i);
+                }
             }
             Console.WriteLine("End of loop!");
         }
