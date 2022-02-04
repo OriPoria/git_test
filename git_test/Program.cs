@@ -19,6 +19,10 @@ namespace git_test
             {
                 Console.WriteLine(j);
             }
+            while (j < 23)
+            {
+                Console.WriteLine(j);
+            }
             Console.WriteLine("End of loop!");
             Console.WriteLine("Written by Ori");
         }
