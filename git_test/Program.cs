@@ -15,6 +15,8 @@ namespace git_test
                 }
             }
             Console.WriteLine("End of loop!");
+            Console.WriteLine("Written by Ori");
+            Console.WriteLine("End of file");
         }
     }
 }
