@@ -15,7 +15,7 @@ namespace git_test
                 }
             }
             int j = 1;
-            if (j == 1)
+            if (j == 2)
             {
                 Console.WriteLine(j);
             }
