@@ -6,7 +6,7 @@ namespace git_test
     {
         static void Main(string[] args)
         {
-            int loops = 10;
+            int loops = 20;
             for (int i = 0; i < loops; i++)
             {
                 if (i % 2 == 1)
@@ -15,7 +15,7 @@ namespace git_test
                 }
             }
             Console.WriteLine("End of loop!");
-            Console.WriteLine("Written by Ori")
+            Console.WriteLine("Written by Ori");
         }
     }
 }
