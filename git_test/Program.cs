@@ -6,9 +6,11 @@ namespace git_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("2222");
-
+            int loops = 10;
+            for (int i = 0; i < loops; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
