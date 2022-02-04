@@ -9,7 +9,7 @@ namespace git_test
             int loops = 20;
             for (int i = 0; i < loops; i++)
             {
-                if (i > 10)
+                if (i > 5 && i < 10)
                 {
                     Console.WriteLine(i);
                 }
