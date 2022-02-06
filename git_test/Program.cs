@@ -8,12 +8,7 @@ namespace git_test
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Start development");
-            Test();
         }
 
-        int Test()
-        {
-            return 0;
-        }
     }
 }
