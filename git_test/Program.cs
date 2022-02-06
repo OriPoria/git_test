@@ -7,17 +7,14 @@ namespace git_test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-<<<<<<< HEAD
-            int i = 4;
-            int k = 20;
-            int f = i + k;
-
-=======
             int i = 5;
             int k = 1;
             int f = i + k;
             Console.WriteLine(f);
->>>>>>> dev
+            int i = 4;
+            int k = 20;
+            int f = i + k;
+
         }
 
     }
