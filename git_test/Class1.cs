@@ -9,6 +9,7 @@ namespace git_test
         int fun()
         {
             int i = 1;
+            int j = 2;
             return 0;
         }
     }
