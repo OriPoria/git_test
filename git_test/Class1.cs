@@ -10,7 +10,7 @@ namespace git_test
         {
             int i = 1;
             int j = 2;
-            int k = 4;
+            int k = 5;
             return 0;
         }
     }
