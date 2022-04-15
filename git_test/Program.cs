@@ -8,6 +8,7 @@ namespace git_test
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Model");
+            Console.WriteLine("Build model from dev branch");
         }
 
     }
